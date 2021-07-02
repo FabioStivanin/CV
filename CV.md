@@ -1,7 +1,3 @@
----
-layout: CV
-title: Fabio Stivanin's CV
----
 # Fabio Stivanin
 > Computer Engineer, Senior Business Analitics Consultant, Project Manager, Sports & Tech Addicted
 
@@ -98,10 +94,12 @@ __Scientific High School, Bassano Del Grappa (VI)__
 
 ## Soft & Relational Skills
 - I got experience as Project Manager in all the steps of the project life, planning sessions, resources management, goals achievement in scheduled times 
+- I use to pay attention on time and priority management
+- I love new challenges, and improve my knowledge in latest technologies
 - I can switch quickly from team-working to independent-work
 - Good relational and public speaking skills
 - I like to be a tutor and a reference for new colleagues
-- I'm open to work from home, but i can also go to the office with my own car or public transport, if necessary
+- I'm open to work from home, but I can also go to the office with my own car or public transport, if necessary
 
 <br><br>
 
