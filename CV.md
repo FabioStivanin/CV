@@ -7,7 +7,7 @@ Computer Engineer, Senior Business Analitics Consultant, Project Manager, Sport 
 
 ![FabioStivanin](foto.jpg)
 
-Born in Marostica (Vicenza) 13.05.1990
+Born in Marostica (Vicenza) 13/05/1990
 <div id="webaddress">
 Phone <a href="3496136360">349 6136360</a>
 |  Mail <a href="fabio.stivanin@gmail.com">fabio.stivanin@gmail.com</a>
@@ -16,84 +16,68 @@ Phone <a href="3496136360">349 6136360</a>
 
 </div>
 
-<br>
+<br><br>
 
 ## Currently
 
 `2017-Now`
-Business Analitics Consultant on Iconsulting SPA, Casalecchio di Reno, Bologna
+Senior Business Analitics Consultant on Iconsulting SPA, Casalecchio di Reno, Bologna
+
+> aggiungi i vari step di carriera
 
 ### Specialized in
 
+ETL & Data Warehousing, Data Architectures, Dynamic and Static Reporting (Opensource and Enterprise softwares), Data Visualization, Opendata, Web Design
 <!--Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 --> 
 
+### Interests
 
-### Research interests
+Python programming, Business Analysis & Dashboarding, Project management and pianification, Mountain Climbing, Music, Traveling, Cooking
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+<br><br>
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2016`
+__Master Degree in Computer Engineering, University of Florence (FI)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master Thesis in Operational Research and 
+Global Optimization Methods (prof. Fabio Shoen)
+- Artificial Intelligence, Computer Vision, Software engineering, Network and Cybersecurity, Risk Management
 
-- Sizar
+`2009-2014`
+__Bachelor Degree in Information Engineering, University of Padua (PD)__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Strong basis on Programming, Data and Algorithms, Mathematics and Probability, Physics, Electrical engineering and Signal processing
 
-- Fellow
+`2004-2009`
+__Scientific High School, Bassano Del Grappa (VI)__
 
+<br><br>
 
+## Technlogical Skills
 
-## Awards
+### OS
 
-`2012`
-President, *Royal Society*, London, UK
+### Programming Languages
 
-Associate, *French Academy of Science*, Paris, France
+### Softwares
+gitlab
 
+<br><br>
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Language skills
 
 
-## Occupation
+<br><br>
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Soft & Relational Skills
 
 
+<br><br>
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
 
