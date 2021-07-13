@@ -74,7 +74,7 @@ __Scientific High School, Bassano Del Grappa (VI)__
 - Open Data: CKAN (data government for PA)
 - Content Management Systems: SparkFabrik Drupal, WordPress
 - Application Development & Version Control: Docker, Gitlab CI/CD, Git, Tortoise, Mercurial
-- Other: Docker, Visual Studio Code, Notepad++, CMD
+- Other: Suite Office, Visual Studio Code, Notepad++, CMD
 
 
 ### Programming Languages
