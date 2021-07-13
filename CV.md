@@ -34,7 +34,7 @@ Business Analitics Specialist at Iconsulting SPA, Casalecchio di Reno, Bologna
 
 ## Specialized in
 
-- ETL & Data Warehousing, Data Architectures, Dynamic and Static Reporting (Opensource and Enterprise SW), Data Visualization, Opendata, Web Design, Backend & Frontend development
+- ETL & Data Warehousing, Data Architectures, Dynamic and Static Reporting (Opensource and Enterprise SWs), Data Visualization, Opendata, Web Design, Backend & Frontend development
 
 <br>
 
@@ -73,8 +73,8 @@ __Scientific High School, Bassano Del Grappa (VI)__
 - Catalog: ZenOptics
 - Open Data: CKAN (data government for PA)
 - Content Management Systems: SparkFabrik Drupal, WordPress
-- Version Control: Git, Tortoise, Mercurial
-- Other: Visual Studio Code, Notepad++, CMD
+- Application Development & Version Control: Docker, Gitlab CI/CD, Git, Tortoise, Mercurial
+- Other: Docker, Visual Studio Code, Notepad++, CMD
 
 
 ### Programming Languages
