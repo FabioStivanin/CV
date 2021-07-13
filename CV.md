@@ -71,7 +71,7 @@ __Scientific High School, Bassano Del Grappa (VI)__
 - Data Visualization: Microsoft Power BI, Tableau, Oracle Business Intelligence Enterprise Edition
 - Reporting: SpagoBI, Pentaho Report Designer
 - Catalog: ZenOptics
-- Open Data: CKAN (data government for PA)
+- Open Data: CKAN (data government for PA), Apache Solr, Apache Tomcat
 - Content Management Systems: SparkFabrik Drupal, WordPress
 - Application Development & Version Control: Docker, Gitlab CI/CD, Git, Tortoise, Mercurial
 - Other: Suite Office, Visual Studio Code, Notepad++, CMD
