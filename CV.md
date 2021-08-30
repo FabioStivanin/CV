@@ -106,5 +106,5 @@ __Scientific High School, Bassano Del Grappa (VI)__
 
 ### Footer
 
-Last updated: July 2021
+Last updated: August 2021
 
