@@ -78,7 +78,7 @@ __Scientific High School, Bassano Del Grappa (VI)__
 
 
 ### Programming Languages
-- I'm full confident in all common programming languages and IDE, like Java, Python, Angular, Javascript, Markup Languages
+- I'm full confident in all common programming languages and IDE, like Java and Javascript, Python and PySpark, Angular, Markup Languages (XML, HTML), Eclipse, Yupiter, Databricks
 - Query: Oracle, SQL server, Access, MongoDB, PostgreSQL, MySQL
 
 ### OS
