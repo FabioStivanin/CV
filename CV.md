@@ -40,7 +40,7 @@ Business Analitics Specialist at Iconsulting SPA, Casalecchio di Reno, Bologna
 
 ## Interests
 
-- Python programming, BI, Data visualization, Project management and pianification, Mountain Climbing, Music, Traveling, Cooking, Videogaming, Dogs
+- Python programming, Data visualization, Project management and pianification, Mountain Climbing, Music, Traveling, Cooking, Videogaming, Dogs
 
 <br>
 
